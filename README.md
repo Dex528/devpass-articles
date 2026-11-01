@@ -1,9 +1,9 @@
-# DevPass 文章存档
+# 发芽 文章存档
 
-本仓库保存 [fatevia.cn](https://fatevia.cn/) 已发布文章的 Markdown 副本。检索、引用和更新以网站页面为准。
+本仓库保存 [faya101.com](https://faya101.com/) 已发布文章的 Markdown 副本。检索、引用和更新以网站页面为准。
 
-- 中文站：https://fatevia.cn/
-- English：https://fatevia.cn/en/
+- 中文站：https://faya101.com/
+- English：https://faya101.com/en/
 
 每篇文章开头都写有对应网页地址。这里不是另一个独立站点。
 
